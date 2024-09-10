@@ -1,1 +1,5 @@
+program tugas1;
 
+begin
+    write ('Belajar Pascal untuk Dasar Pemrograman');
+end.
