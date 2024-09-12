@@ -1,0 +1,18 @@
+program Nama_Bulan;
+uses crt;
+
+var nama,nim,kom,alamat:string;
+
+begin
+    clrscr;
+    write ('Masukkan nama Anda : ');
+    readln (nama);
+    write ('Masukkan NIM Anda : ');
+    readln (nim);
+    write ('Masukkan Kom Anda : ');
+    readln (kom);
+    write ('Masukkan Alamat Anda : ');
+    readln (alamat);
+    write ('Hallo, Nama saya ',nama, ', NIM saya ',nim, ', saya di kom ',kom, ', alamat saya di ',alamat, '. Salam Kenal Semua!');
+    
+end.
