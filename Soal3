@@ -1,7 +1,9 @@
 program Perkenalan;
 uses crt;
 
-var nama,nim,kom,alamat:string;
+var
+    nama,nim,alamat:string;
+    kom:char;
 
 begin
     clrscr;
